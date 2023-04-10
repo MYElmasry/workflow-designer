@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/workflow-designer/static/css/main.398ff697.css",
+    "main.js": "/workflow-designer/static/js/main.7eb8c649.js",
+    "static/js/787.0b098821.chunk.js": "/workflow-designer/static/js/787.0b098821.chunk.js",
+    "index.html": "/workflow-designer/index.html",
+    "main.398ff697.css.map": "/workflow-designer/static/css/main.398ff697.css.map",
+    "main.7eb8c649.js.map": "/workflow-designer/static/js/main.7eb8c649.js.map",
+    "787.0b098821.chunk.js.map": "/workflow-designer/static/js/787.0b098821.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.398ff697.css",
+    "static/js/main.7eb8c649.js"
+  ]
+}
