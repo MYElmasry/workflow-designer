@@ -1,0 +1,9 @@
+.connected div {
+  border: 1px solid #b3c7e7 !important;
+}
+.connected div:first-of-type {
+  border-right: 0 !important;
+}
+.connected div:last-of-type {
+  border-left: 0 !important;
+}

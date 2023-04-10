@@ -1,0 +1,17 @@
+.modules {
+  height: calc(100vh - 43px);
+}
+.pagination {
+  border: 1px solid rgb(179, 199, 231);
+  border-top: 0;
+}
+.pagination nav {
+  border: 0;
+}
+.modules p {
+  border: 1px solid rgb(179, 199, 231);
+}
+.modules-list {
+  border: 1px solid rgb(179, 199, 231);
+  border-bottom: 0;
+}
